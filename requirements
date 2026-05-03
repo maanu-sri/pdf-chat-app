@@ -1,0 +1,10 @@
+langchain==0.3.25
+langchain-core
+langchain-groq
+langchain-community
+langchain-text-splitters
+faiss-cpu
+pypdf
+huggingface-hub
+sentence-transformers
+streamlit
